@@ -1,6 +1,7 @@
 ## Aivle School 5nd Mini Project(Kaggle Competition) - 휴대폰 센서 데이터 기반 모션 분류
 
-본 프로젝트는 Aivle School에서 진행한 5번째 프로젝트이며, kaggle competition을 이용하여 가장 뛰어난 모션분류 모델을 만드는 것이 목표로 함
+본 프로젝트는 Aivle School에서 진행한 5번째 프로젝트</br>
+휴대폰 센서 데이터 셋을 이용하여 가장 뛰어난 모션분류 모델을 만드는 것이 목표로 함</br>
 (Google Colab환경에서 프로젝트를 진행)
 </br></br>
 ## 프로젝트 링크
