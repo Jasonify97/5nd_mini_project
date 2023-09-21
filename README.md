@@ -4,11 +4,17 @@
 
 👉[Kaggle 링크](https://www.kaggle.com/competitions/aivle-school-5th-miniproject)
 
+Google Colab환경에서 프로젝트를 진행함
+
+👉[데이터 분석 및 분류 모델 생성](https://github.com/Jasonify97/5nd_mini_project/blob/main/5nd_miniproject.ipynb)
 
 
 
 
+## Result
 
-<img width="1097" alt="image" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/a7f41d27-a2ed-43a3-bb98-fe5b517b0e87">
-<img width="288" alt="image" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/d0c63ecb-f8d8-4d7f-aeb1-dca1072098f8">
-<img width="228" alt="image" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/9f5a7561-b438-4c87-9c54-d608523ba4aa">
+|<img width="200" alt="image" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/d0c63ecb-f8d8-4d7f-aeb1-dca1072098f8">|<img alt="image" width="200" src="https://github.com/Jasonify97/5nd_mini_project/assets/98500133/9f5a7561-b438-4c87-9c54-d608523ba4aa">|
+|:---:|:---:|
+
+
+
